@@ -5,9 +5,9 @@
 采用HTML、CSS、原生JavaScript实现。<br/>
 动态展示效果见 demo.mp4 <br />
 PC端效果：<br/>
-![image](https://github.com/zhangtsh5/Rotating-Clock/blob/master/img/PC.png)
+<img src="https://github.com/zhangtsh5/Rotating-Clock/blob/master/img/PC.png" width="60%"><br/>
 Pad效果：<br/>
-![image](https://github.com/zhangtsh5/Rotating-Clock/blob/master/img/Pad.png)
-
+<img src="https://github.com/zhangtsh5/Rotating-Clock/blob/master/img/Pad.png" width="60%"><br/>
 Mobile phone效果：<br/>
-![image](https://github.com/zhangtsh5/Rotating-Clock/blob/master/img/mobile%20phone.png)
+<img src="https://github.com/zhangtsh5/Rotating-Clock/blob/master/img/mobile%20phone.png" width="60%">
+
